@@ -1,0 +1,22 @@
+# SRA Toolkit installation
+sratoolkit.3.4.1-ubuntu64/
+sratoolkit.tar.gz
+
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+*.bam
+*.sam
+*.cram
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
